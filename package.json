@@ -1,0 +1,19 @@
+{
+  "name": "chatcord",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikramsarfraz/chatcord.git"
+  },
+  "author": "Muhammad Ikramulhaq Sarfraz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikramsarfraz/chatcord/issues"
+  },
+  "homepage": "https://github.com/ikramsarfraz/chatcord#readme"
+}
